@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: remote-file-retaining
+  description: Remote Retaining Of Skeleton
+spec:
+  type: service
+  owner: service@example.com
+  lifecycle: experimental
